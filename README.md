@@ -14,6 +14,16 @@
 
 ## Chapter 4 아키텍처
 
+### MySQL 구조
 <ul>
-    <li><a href="docs/ch04-1.md">MySQL 구조: 스레드, 메모리 할당 및 사용</a></li>
+    <li><a href="docs/ch04-1-1.md">스레드, 메모리 할당 및 사용</a></li>
+    <li><a href="docs/ch04-1-2.md">쿼리 실행 구조와 트랜잭션을 지원하는 메타 데이터</a></li>
+</ul>
+
+### InnoDB 스토리지 엔진 구조
+
+<ul>
+    <li><a href="docs/ch04-2-1.md">프라이머리 키와 외래키</a></li>
+    <li><a href="docs/ch04-2-2.md">MVCC와 잠금없는 일관된 읽기</a></li>
+    <li><a href="docs/ch04-2-3.md">자동 데드락 감지</a></li>
 </ul>
