@@ -27,4 +27,5 @@
     <li><a href="docs/ch04-2-2.md">MVCC와 잠금없는 일관된 읽기</a></li>
     <li><a href="docs/ch04-2-3.md">자동 데드락 감지</a></li>
     <li><a href="docs/ch04-2-4.md">버퍼 풀</a></li>
+    <li><a href="docs/ch04-2-5.md">Double Wirte Buffer & Undo log</a>
 </ul>
