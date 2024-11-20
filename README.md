@@ -29,3 +29,10 @@
     <li><a href="docs/ch04-2-4.md">버퍼 풀</a></li>
     <li><a href="docs/ch04-2-5.md">Double Wirte Buffer & Undo log</a>
 </ul>
+
+## Chapter 5 트랜잭션과 잠금 (중요)
+
+<ul>
+    <li><a href="docs/ch05-lock.md">잠금</a></li>
+    <li><a href="docs/ch05-transaction.md">트랜잭션</a></li>
+<ul>
