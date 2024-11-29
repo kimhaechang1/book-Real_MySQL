@@ -36,3 +36,9 @@
     <li><a href="docs/ch05-lock.md">잠금</a></li>
     <li><a href="docs/ch05-transaction.md">트랜잭션</a></li>
 <ul>
+
+## Chapter 8 인덱스 (중요)
+
+<ul>
+    <li><a href="docs/ch06-B트리인덱스.md">B트리 인덱스</a></li>
+<ul>
