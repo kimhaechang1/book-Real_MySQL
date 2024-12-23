@@ -50,5 +50,5 @@
 ## Chapter 9 옵티마이저와 힌트 (중요)
 
 <ul>
-    <li><a href="docs/ch09-옵티마이저와 힌트.md">옵티마이저와 힌트</a></li>
+    <li><a href="docs/ch09-실행절차와 ORDER BY.md">쿼리 실행절차와 ORDER BY</a></li>
 </ul>
