@@ -51,4 +51,5 @@
 
 <ul>
     <li><a href="docs/ch09-실행절차와 ORDER BY.md">쿼리 실행절차와 ORDER BY</a></li>
+    <li><a href="docs/ch09-GROUP BY와 DISTINCT.md">GROUP BY 와 DISTINCT</a></li>
 </ul>
