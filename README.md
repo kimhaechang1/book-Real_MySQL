@@ -52,4 +52,5 @@
 <ul>
     <li><a href="docs/ch09-실행절차와 ORDER BY.md">쿼리 실행절차와 ORDER BY</a></li>
     <li><a href="docs/ch09-GROUP BY와 DISTINCT.md">GROUP BY 와 DISTINCT</a></li>
+    <li><a href="docs/ch09-임시테이블.md">내부 임시 테이블 활용</a>
 </ul>
