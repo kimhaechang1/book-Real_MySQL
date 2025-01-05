@@ -49,9 +49,27 @@
 
 ## Chapter 9 옵티마이저와 힌트 (중요)
 
+### 옵티마이저 기본
 <ul>
     <li><a href="docs/ch09-실행절차와 ORDER BY.md">쿼리 실행절차와 ORDER BY</a></li>
     <li><a href="docs/ch09-GROUP BY와 DISTINCT.md">GROUP BY 와 DISTINCT</a></li>
-    <li><a href="docs/ch09-임시테이블.md">내부 임시 테이블 활용</a>
-    <li><a href="docs/ch09-Nested Loop Join 과 Join Buffer (Block Nested loop).sql">Nested Loop Join 과 Join Buffer를 활용한 Disk I/O 최적화</a>
+    <li><a href="docs/ch09-임시테이블.md">내부 임시 테이블 활용</a></li>
 </ul>
+
+### 고급 최적화 (지속적 업데이트, 내용 방대)
+
+<ul>
+    <li><a href="docs/ch09-Nested Loop Join 과 Join Buffer (Block Nested loop).md">Nested Loop Join 과 Join Buffer를 활용한 Disk I/O 최적화</a></li>
+    <li><a href="docs/ch09-해시조인.md">해시 조인</a></li>
+    <li><a href="docs/ch09-스킵스캔.md">스킵 스캔</a></li>
+    <li><a href="docs/ch09-고급최적화.md">위 내용 밖의 고급 최적화</a></li>
+</ul>
+
+### 힌트
+
+<ul>
+    <li><a href="docs/ch09-인덱스 힌트.md"></a></li>
+    <li><a href="docs/ch09-옵티마이저 힌트.md"></a></li>
+</ul>
+
+## Chapter 10 실행 계획 (중요)
